@@ -90,3 +90,23 @@ nav {
     font-weight: 157px 24px;
     font-family: "Raleway", sans-serif;
 }
+
+.section2 {
+
+    display: flex;
+    margin-left: 800px;
+    margin-bottom: 500px;
+    color: #4E47FF;
+}
+
+.about {
+    background-color: #4E47FF 10%;
+}
+
+.section {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: bold 38px;
+    font-weight: 856px 45px;
+
+}
