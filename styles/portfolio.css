@@ -125,3 +125,16 @@ nav {
 .she {
     font-size: 30px;
 }
+
+.pic {
+    text-align: center;
+    background-color: #FFFFFF;
+    background-size: 487px 22px;
+
+}
+
+.tomato {
+    background-color: aliceblue;
+    width: 560px;
+    height: 560px;
+}
