@@ -138,3 +138,19 @@ nav {
     width: 560px;
     height: 560px;
 }
+
+.you {
+    font-size: 60px;
+    text-align: center;
+    margin-right: 900px;
+    margin-top: 300px;
+}
+
+.we {
+    margin: 0px 0px 500px 900px;
+}
+
+.me {
+    background-color: rgb(224, 224, 235);
+    background-size: 1140px 662px;
+}
